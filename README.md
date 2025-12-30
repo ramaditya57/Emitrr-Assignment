@@ -2,7 +2,7 @@
 
 A powerful, interactive, and visual workflow builder developed as a Frontend Intern Take-Home Assignment. This application allows users to design complex logic flows with Actions and Conditions using a clean, tree-based UI.
 
-**[🔴 LIVE DEMO LINK HERE]** *(Replace this text with your Vercel/Netlify URL)*
+**🔴 LIVE DEMO LINK :** https://emitrr-assignment-ramaditya.vercel.app/
 
 ---
 
@@ -39,7 +39,7 @@ The application manages a complex tree data structure, handles recursive renderi
 
 1. **Clone the repository**
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/ramaditya57/Emitrr-Assignment
 cd workflow-builder
 ```
 
@@ -98,12 +98,3 @@ Diamonds are created using rotation with counter-rotation for readable text.
 | Add/Delete/Edit | ✅ |
 | Undo/Redo | ✅ |
 | Save to JSON | ✅ |
-
----
-
-## 📸 Usage
-
-1. Add nodes using the (+) button.
-2. Create logic with conditions.
-3. Edit text by clicking labels.
-4. Save workflow to console.
