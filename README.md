@@ -59,6 +59,7 @@ npm run dev
 
 ## 📂 Project Structure
 
+```
 src/
 ├── components/
 │   ├── NodeCard.jsx
@@ -68,6 +69,7 @@ src/
 │   └── useWorkflow.js
 ├── App.css
 └── App.jsx
+```
 
 ---
 
